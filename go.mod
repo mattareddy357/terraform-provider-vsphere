@@ -38,7 +38,7 @@ require (
 	github.com/terraform-providers/terraform-provider-template v1.0.0
 	github.com/ulikunitz/xz v0.5.6 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
-	github.com/vmware/govmomi v0.20.0
+	github.com/vmware/govmomi v0.18.0
 	github.com/vmware/vic v1.5.2
 	golang.org/x/crypto v0.0.0-20190506204251-e1dfcc566284 // indirect
 	golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c // indirect
